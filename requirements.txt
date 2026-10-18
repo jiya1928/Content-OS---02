@@ -1,0 +1,10 @@
+﻿streamlit
+langgraph
+langchain
+langchain-groq
+langchain-community
+langchain-core
+chromadb==0.4.24
+ddgs
+python-dotenv
+groq
